@@ -6,6 +6,8 @@ html {
   *:after,
   *:before {
     box-sizing: inherit;
+    /* font-family: 'Poppins', sans-serif; */
+
   }
   :root {
     --box-color: #00db8b;/*#e4a493;*/
@@ -20,6 +22,7 @@ html {
     background: radial-gradient(circle at 100% 0%,white, cornflowerblue 100%);
     background-repeat: no-repeat;
     background-size: 100% 100vh;
+    font-family: 'Poppins', sans-serif;
   }
   @keyframes scale-letter {
     0% {
